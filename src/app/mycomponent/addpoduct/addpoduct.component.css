@@ -1,0 +1,35 @@
+form{
+  float: left;
+  width: 40%;
+  margin-left: 30%;
+
+}
+input[type=text],input[type=number]{
+  float: left;
+  height: 50px;
+  margin-top: 10px;
+  width: 90%;
+  margin-bottom: 10px;
+  outline: none;
+  background: transparent;
+  border-radius: 12px;
+  padding-left: 12%;
+}
+button{
+  float: left;
+  width: 30%;
+  background-color: green;
+  color: white;
+  font-size: 18px;
+  margin-left: 35%;
+  height: 50px;
+  cursor: pointer;
+}
+div{
+  float: left;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+

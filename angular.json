@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "mycrudapp"
+  "defaultProject": "mycrudapp",
+  "cli": {
+    "analytics": false
+  }
 }
